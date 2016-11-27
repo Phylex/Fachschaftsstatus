@@ -1,3 +1,6 @@
 [submodule "esptool-ck"]
 	path = esptool-ck
 	url = ./esptool-ck
+[submodule "nodemcu-firmware"]
+	path = nodemcu-firmware
+	url = ./nodemcu-firmware
